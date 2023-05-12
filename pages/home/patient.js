@@ -62,6 +62,7 @@ export default function Home() {
       <footer className={styles.footer}>
         {/* Insert footer content here, such as copyright information */}
       </footer>
+      
     </div>
   );
 }
